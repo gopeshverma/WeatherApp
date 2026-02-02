@@ -15,7 +15,7 @@ A simple and responsive web application to check real-time weather information f
 - WeatherAPI
 
 ## Live Demo
-[https://gopeshverma.github.io/weather-app/](https://gopeshverma.github.io/weather-app/)
+[https://gopeshverma.github.io/WeatherApp/](https://gopeshverma.github.io/WeatherApp/)
 
 ## How to Use
 1. Open the Live Demo link in any browser.
@@ -26,4 +26,4 @@ A simple and responsive web application to check real-time weather information f
 ## Installation / Run Locally
 1. Clone the repository:
 ```bash
-git clone https://github.com/gopeshverma/weather-app.git
+git clone https://gopeshverma.github.io/WeatherApp/.git
