@@ -13,7 +13,7 @@ const resultBox = document.querySelector('.result-box');
 
 async function getData(city)
 {
-   let response = await fetch(`http://api.weatherapi.com/v1/current.json?key=401393ed0ec940ec8a1110813252002&q=${city}&aqi=no`);
+   let response = await fetch(`https://api.weatherapi.com/v1/current.json?key=401393ed0ec940ec8a1110813252002&q=${city}&aqi=no`);
    let data = await response.json();
    result(data);
 } 
